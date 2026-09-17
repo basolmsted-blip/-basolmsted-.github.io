@@ -18,7 +18,12 @@ permalink: /ngogo/
 ---
 
 ### Project Overview
-During the summer of 2026, I worked as a field research assistant with the **Ngogo Monkey Project** in Kibale National Park, southwestern Uganda. My research supported long-term studies on wild primate behavioral ecology, social structures, and collective action, specifically focusing on wild red-tailed monkeys (*Cercopithecus ascanius*).
+During the summer of 2026, I worked as a field research assistant with the Ngogo Monkey Project in Kibale National Park, southwestern Uganda. My research supported long-term studies on wild primate behavioral ecology, social structures, and collective action, specifically focusing on wild red-tailed monkeys (*Cercopithecus ascanius*).
+
+![Ngogo research team](ngogo-1.jpg)
+
+<p align="center">The research team at the 2026 Ngogo Monkey Project.</p>
+
 
 ---
 
