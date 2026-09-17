@@ -1,10 +1,14 @@
 ---
 layout: home
-title: Sebastian N. Olmsted
+title: Home
 ---
+
+# **Sebastian N. Olmsted**
 
 **Archaeology & Anthropological Sciences**  
 *University of California, Santa Barbara*
+
+Welcome to my portfolio!
 
 [📄 Download Full CV (PDF)](cv.pdf) • [✉️ Email Me](mailto:bas.olmsted@gmail.com)
 
