@@ -4,6 +4,13 @@ title: Ngogo Monkey Project
 permalink: /ngogo/
 ---
 
+<div style="position: relative; width: 100%; max-height: 420px; overflow: hidden; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block; object-fit: cover;">
+    <source src="/ngogo-banner.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 # Behavioral Ecology of Red-Tailed Monkeys (*Cercopithecus ascanius*)
 **Research Assistant | Kibale National Park, Uganda**  
 *June – September 2026*
@@ -13,9 +20,6 @@ permalink: /ngogo/
 ### Project Overview
 During the summer of 2026, I worked as a field research assistant with the **Ngogo Monkey Project** in Kibale National Park, southwestern Uganda. My research supported long-term studies on wild primate behavioral ecology, social structures, and collective action, specifically focusing on wild red-tailed monkeys (*Cercopithecus ascanius*).
 
-![Kibale Forest Canopy](ngogo-1.jpg)
-*Field site in Kibale National Park, Uganda.*
-
 ---
 
 ### Field Methodologies & Core Responsibilities
@@ -24,9 +28,6 @@ During the summer of 2026, I worked as a field research assistant with the **Ngo
 * **Simulated Intergroup Engagements (IGEs):** Supported experimental trials simulating territorial incursions using playback experiments to measure collective defense dynamics and individual participation thresholds—specifically among adult females.
 * **Non-Invasive Biological Sampling:** Collected and processed fecal and urine samples from identified individuals under strict contamination-free protocols for subsequent hormonal analysis (glucocorticoids/reproductive hormones) and genetic profiling at the University of Minnesota.
 * **Data Integrity & Log Tracking:** Transcribed daily audio logs and maintained multi-group demographic records and ranging maps.
-
-![Red-tailed monkey observation](ngogo-2.jpg)
-*Observing red-tailed monkey (*Cercopithecus ascanius*) groups during focal follows.*
 
 ---
 
