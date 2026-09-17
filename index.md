@@ -33,7 +33,7 @@ Stratigraphic excavations, total station mapping, and artifact documentation spa
 
 ---
 
-### Key Methodologies
+## **Key Methodologies**
 * **Spatial & Digital:** QGIS, ArcGIS, DEM simulations, cumulative viewsheds, Higuchi visibility analysis, R, Python.
 * **Fieldwork & Survey:** Total station surveying, LiDAR scanning, stratigraphic trenching, auger coring, flotation.
 * **Laboratory:** Ceramic cataloguing & reconstruction (Nubian assemblages), fluid sample hormone extraction (ELISA), DNA preparation.
