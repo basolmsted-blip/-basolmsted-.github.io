@@ -10,14 +10,14 @@ title: Sebastian N. Olmsted
 
 ---
 
-### About Me
+## **About Me**
 I am an archaeology and anthropology researcher focused on medieval landscape archaeology, human-environment interactions, and defensive architecture. My work bridges empirical scientific foundations—such as GIS visibility modeling, spatial statistics, and behavioral ecology—with experiential and cultural approaches to historical landscapes.
 
 I am currently dedicating a gap year to intensive research writing, spatial data analysis, and fieldwork in preparation for graduate study.
 
 ---
 
-### Featured Research & Projects
+## **Featured Research & Projects**
 
 #### **Scaliger Castle Viewshed Analysis (2025–2026)**
 *Award for Research Promise & UCSB Anthropology Research Symposium Award*  
