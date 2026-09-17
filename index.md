@@ -27,7 +27,7 @@ I am currently dedicating a gap year to intensive research writing, spatial data
 *Award for Research Promise & UCSB Anthropology Research Symposium Award*  
 A GIS spatial analysis of 12 late medieval fortifications belonging to the Della Scala (Scaliger) dynasty in northern Italy. Evaluated visibility networks, cumulative viewsheds, and landscape control hypotheses against historical literature.
 
-#### Primate Behavioral Ecology — Ngogo Monkey Project (2026)
+#### **Primate Behavioral Ecology — Ngogo Monkey Project (2026)**
 *Kibale National Park, Uganda*  
 Conducted focal follows and collected behavioral and hormonal data across wild red-tailed monkey (*C. ascanius*) groups, assessing female participation during simulated intergroup engagements (IGEs).
 
