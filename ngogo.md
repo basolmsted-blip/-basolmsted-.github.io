@@ -4,13 +4,6 @@ title: Ngogo Monkey Project
 permalink: /ngogo/
 ---
 
-<div style="position: relative; width: 100%; max-height: 420px; overflow: hidden; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block; object-fit: cover;">
-    <<source src="{{ '/ngogo-banner.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 # Behavioral Ecology of Red-Tailed Monkeys (*Cercopithecus ascanius*)
 **Research Assistant | Kibale National Park, Uganda**  
 *June – September 2026*
